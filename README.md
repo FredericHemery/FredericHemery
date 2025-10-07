@@ -17,4 +17,3 @@ const Fred = {
   architecture: ["microservices", "MVVM", "MVC"]
 }
 
-}
