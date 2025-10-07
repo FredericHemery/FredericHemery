@@ -1,16 +1,20 @@
-## hi I'm Fred
+# Hi, I'm Fred! 👋🐱‍👤
 
-Web application trainee at TGS
+_Web application trainee at TGS_
 
+[![LinkedIn](https://img.shields.io/badge/-frederich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frederich)](https://www.linkedin.com/in/frederich)  
+[![GitHub](https://img.shields.io/github/followers/FredericHemery?label=Follow&style=social)](https://github.com/FredericHemery)
 
-Linkedin: frederich GitHub FredericHemery
+---
 
- A little more about me...
+## 🐧 A little more about me...
 
-
+```js
 const Fred = {
   pronouns: "he" | "him",
-  code: [C#, PHP, HTML, CSS, Java, PL SQL],
-  tools: [Symfony, .net, selenium, Blazor, nhibernate,Docker],
-  architecture: ["microservices", "MVVM", "MVC"],
+  code: ["C#", "PHP", "HTML", "CSS", "Java", "PL SQL"],
+  tools: ["Symfony", ".NET", "Selenium", "Blazor", "NHibernate", "Docker"],
+  architecture: ["microservices", "MVVM", "MVC"]
+}
+
 }
