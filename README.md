@@ -1,4 +1,3 @@
-## Hi there 👋
+## Bonjour le Monde! 👋
 
-<!--Bonjour le Monde! C'est moi frédéric !
--->
+ C'est moi frédéric !
